@@ -5,6 +5,8 @@ Python
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
+![Pycharm](https://img.shields.io/badge/-pycharm-green)
+
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
