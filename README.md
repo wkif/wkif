@@ -18,7 +18,7 @@ Python
 
 ## 博客
 
-https://www.kifroom.icu
+https://wkif-github-io.vercel.app/
 
 
 
