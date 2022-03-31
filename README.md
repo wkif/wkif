@@ -18,7 +18,7 @@ Python
 
 ## 博客
 
-https://.kifroom.icu
+https://www.kifroom.icu
 
 
 
