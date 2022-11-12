@@ -36,7 +36,7 @@
 个人博客：<a href="https://wkkif.gitee.io/">myBlog</a>
 
 - 👨‍💻 XTU-Network engineering
-- :email：kif101001000@163.com
+- :email: kif101001000@163.com
 - 💬 wecat：rm-rf_kif
 - :orange_book: Focusing on Vue & Web
 - :hammer: Programming enthusiast
