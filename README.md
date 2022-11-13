@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/wechat_miniprogram-09b955?style=flat&logo=wechat&logoColor=white">
   <img src="https://img.shields.io/badge/-less-bf608e?style=flat&logo=less&logoColor=white">
+  <img src="https://img.shields.io/badge/-Django-2b6dbf?style=flat&logo=django&logoColor=white">
 </div>
 <p></p>
 <div align="center">
