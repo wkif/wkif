@@ -35,7 +35,7 @@
 
 - 2022-to date        Daoyi (Changsha) Information Technology Co., Ltd.            Front-end intern
 
-个人博客：<a href="https://wkkif.gitee.io/">myBlog</a>
+myBlog：<a href="https://www.kifroom.icu/">kifroom</a>
 
 - 👨‍💻 XTU-Network engineering
 - :email: kif101001000@163.com
