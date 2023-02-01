@@ -29,7 +29,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="300"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wkif)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 # Work experience（Half a year internship experience）
@@ -60,3 +60,5 @@ myBlog：<a href="https://www.kifroom.icu/">kifroom</a>
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=captain5.captain5" alt="visitor badge"/>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=wkif)](https://github.com/ryo-ma/github-profile-trophy)
