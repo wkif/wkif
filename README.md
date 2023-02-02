@@ -62,6 +62,16 @@ myBlog：<a href="https://www.kifroom.icu/">kifroom</a>
 </p>
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   8 hrs 48 mins   █████████░░░░░░░░░░░░░░░░   36.20 %
+TypeScript   5 hrs 19 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.91 %
+Vue.js       3 hrs 53 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
+Batchfile    2 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+JSON         1 hr 50 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
+Markdown     48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+```
+
 <!--END_SECTION:waka-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wkif)](https://github.com/ryo-ma/github-profile-trophy)
