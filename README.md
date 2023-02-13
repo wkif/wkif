@@ -74,4 +74,13 @@ Git Config   1 hr 6 mins     █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+
+ <div align="left">
+      <a href="#">
+        <img src="https://user-images.githubusercontent.com/46062972/177761749-da9d5297-87ac-4c30-b069-16bc685a7e80.png" width="150"> 
+        <span>&nbsp;&nbsp;&nbsp;</span>
+        <img src="https://user-images.githubusercontent.com/46062972/177762098-5ea66dc6-5c5b-4877-9edc-0610f4816530.jpeg" width="150">
+      </a>
+    </div>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=wkif)](https://github.com/ryo-ma/github-profile-trophy)
