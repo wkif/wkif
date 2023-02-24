@@ -64,9 +64,9 @@ myBlog：<a href="https://www.kifroom.icu/">kifroom</a>
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 43 mins   █████████████▓░░░░░░░░░░░   54.73 %
-Vue.js       1 hr 19 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.46 %
-Other        35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
+JavaScript   2 hrs 52 mins   ███████████░░░░░░░░░░░░░░   44.40 %
+Vue.js       1 hr 15 mins    █████░░░░░░░░░░░░░░░░░░░░   19.53 %
+Other        53 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
 ```
 
 <!--END_SECTION:waka-->
