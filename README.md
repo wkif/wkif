@@ -34,8 +34,8 @@
 
 # Work experience（Half a year internship experience）
 
-- 2022-to date        Daoyi (Changsha) Information Technology Co., Ltd.            Front-end intern
-
+- 2022- 2023        Daoyi (Changsha) Information Technology Co., Ltd.            Front-end intern
+- 2023-to date      Beijing Yunda Digital Media Technology Co. LTD          Front-end intern
 myBlog：<a href="https://www.kifroom.icu/">kifroom</a>
 
 - 👨‍💻 XTU-Network engineering
