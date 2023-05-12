@@ -65,10 +65,10 @@ myBlog：<a href="https://www.kifroom.icu/">kifroom</a>
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 58 mins    █████████████████░░░░░░░░   67.79 %
-Other        41 mins         ██████░░░░░░░░░░░░░░░░░░░   23.55 %
-Less         14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+JavaScript   2 hrs 55 mins   ██████████████░░░░░░░░░░░   56.06 %
+Other        1 hr 15 mins    ██████░░░░░░░░░░░░░░░░░░░   24.16 %
+Less         44 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
+JSON         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
 ```
 
 <!--END_SECTION:waka-->
