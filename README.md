@@ -65,7 +65,11 @@ myBlog：<a href="https://www.kifroom.icu/">kifroom</a>
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     21 mins         ████████████▓░░░░░░░░░░░░   51.03 %
+Vue.js       8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.25 %
+JSON         7 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
+JavaScript   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+TypeScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
 ```
 
 <!--END_SECTION:waka-->
