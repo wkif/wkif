@@ -65,11 +65,11 @@ myBlog：<a href="https://www.kifroom.icu/">kifroom</a>
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     21 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.92 %
-TypeScript   21 mins         ██████░░░░░░░░░░░░░░░░░░░   24.57 %
-Vue.js       20 mins         ██████░░░░░░░░░░░░░░░░░░░   24.00 %
-JSON         18 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.95 %
-JavaScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+TypeScript   20 mins         ███████████▒░░░░░░░░░░░░░   45.43 %
+Vue.js       12 mins         ███████░░░░░░░░░░░░░░░░░░   28.53 %
+JSON         11 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.72 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
