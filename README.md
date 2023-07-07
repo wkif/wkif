@@ -65,7 +65,7 @@ myBlog：<a href="https://www.kifroom.icu/">kifroom</a>
 <!--START_SECTION:waka-->
 
 ```txt
-Python   20 mins         █████████████████████████   99.99 %
+Python   22 mins         █████████████████████████   99.99 %
 JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
