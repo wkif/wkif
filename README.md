@@ -65,7 +65,8 @@ myBlog：<a href="https://hexo.kifroom.icu/">kifroom</a>
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Vue.js       1 hr 59 mins    ██████████████░░░░░░░░░░░   55.81 %
+JavaScript   1 hr 34 mins    ███████████░░░░░░░░░░░░░░   44.19 %
 ```
 
 <!--END_SECTION:waka-->
