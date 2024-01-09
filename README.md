@@ -65,11 +65,11 @@ myBlog：<a href="https://hexo.kifroom.icu/">kifroom</a>
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       16 hrs 30 mins  ██████████████████░░░░░░░   71.75 %
-TypeScript   3 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
-JavaScript   1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-JSON         48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-Less         43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Vue.js       16 hrs 36 mins  ██████████████████░░░░░░░   71.87 %
+TypeScript   3 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
+JavaScript   1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+JSON         48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+Less         43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
 ```
 
 <!--END_SECTION:waka-->
