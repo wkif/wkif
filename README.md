@@ -6,28 +6,40 @@
 
 
 
-<p align="center">
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-Python-2b6dbf?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-FFDC52?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-Rust-F3F3F3?style=flat&logo=rust&logoColor=white">
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/wechat_miniprogram-09b955?style=flat&logo=wechat&logoColor=white">
-  <img src="https://img.shields.io/badge/-less-bf608e?style=flat&logo=less&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-087EA4?style=flat&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/-wasm-408e43?style=flat&logo=WebAssembly&logoColor=white">
+  <img src="https://img.shields.io/badge/miniprogram-09b955?style=flat&logo=wechat&logoColor=white">
+  <img src="https://img.shields.io/badge/-Uniapp-bf608e?style=flat&logo=uniapp&logoColor=white">
+  <img src="https://img.shields.io/badge/-Nuxt3-bf608e?style=flat&logo=nuxt.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/-Django-2b6dbf?style=flat&logo=django&logoColor=white">
 </div>
-<p></p>
 <div align="center">
+     <img src="https://img.shields.io/badge/-less-bf608e?style=flat&logo=less&logoColor=white">
+     <img src="https://img.shields.io/badge/-sass-bf608e?style=flat&logo=sass&logoColor=white">
+     <img src="https://img.shields.io/badge/-unoss-bf608e?style=flat&logo=unoss&logoColor=white">
+    <img src="https://img.shields.io/badge/-vite-646CFF?style=flat&logo=vite&logoColor=white">
+    <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat&logo=webpack&logoColor=white">
+  	<img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat&logo=eslint&logoColor=white">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/-arch linux-bf608e?style=flat&logo=archlinux&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Nginx-408e43?style=flat&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
-   <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
-   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
-
 <br />
 
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="300"/>
+
 
 
 
@@ -37,7 +49,7 @@
 - 2022- 2023        Daoyi (Changsha) Information Technology Co. LTD.            Front-end intern
 - 2023-to date      Beijing Yunda Digital Media Technology Co. LTD.          Front-end intern
 
-myBlog：<a href="https://www.kifroom.icu/">kifroom</a>
+myBlog：<a href="https://blog.kifroom.icu/">kifroom</a>
 
 - 👨‍💻 XTU-Network engineering
 - :email: kif101001000@163.com
@@ -57,10 +69,6 @@ myBlog：<a href="https://www.kifroom.icu/">kifroom</a>
 ![grid snake animation](https://kifimg.oss-cn-beijing.aliyuncs.com/project/github-user-contribution.svg)
 
 
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=captain5.captain5" alt="visitor badge"/>
-</p>
 
 <!--START_SECTION:waka-->
 
@@ -82,5 +90,4 @@ JSON           1 hr 39 mins    █▒░░░░░░░░░░░░░░�
         <img src="https://user-images.githubusercontent.com/46062972/177762098-5ea66dc6-5c5b-4877-9edc-0610f4816530.jpeg" width="150">
       </a>
     </div>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=wkif)](https://github.com/ryo-ma/github-profile-trophy)
