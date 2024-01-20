@@ -42,18 +42,17 @@
 
 
 
-
-
-# Work experience（One year's work experience）
-
-- 2022- 2023        Daoyi (Changsha) Information Technology Co. LTD.            Front-end intern
+# Work/Study experience（One year's work experience）
+- 2019- 2023        XTU                                                      Network engineering
+- 2022- 2023        Daoyi (Changsha) Information Technology Co. LTD.         Front-end intern
 - 2023-to date      Beijing Yunda Digital Media Technology Co. LTD.          Front-end intern
 
 myBlog：<a href="https://blog.kifroom.icu/">kifroom</a>
+=======
+myBlog：<a href="https://hexo.kifroom.icu/">kifroom</a>
 
-- 👨‍💻 XTU-Network engineering
 - :email: kif101001000@163.com
-- 💬 wecat：rm-rf_kif
+- 💬 wechat：rm-rf_kif
 - :orange_book: Focusing on Vue & Web
 - :hammer: Programming enthusiast
 - :ram: Magic lover
@@ -73,11 +72,11 @@ myBlog：<a href="https://blog.kifroom.icu/">kifroom</a>
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript     9 hrs 15 mins   ███████░░░░░░░░░░░░░░░░░░   28.41 %
-TypeScript     7 hrs 37 mins   ██████░░░░░░░░░░░░░░░░░░░   23.39 %
-Vue.js         7 hrs 14 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.20 %
-Rust           4 hrs 34 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 %
-JSON           1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Vue.js       13 hrs 29 mins  ███████████▒░░░░░░░░░░░░░   45.12 %
+TypeScript   9 hrs 34 mins   ████████░░░░░░░░░░░░░░░░░   32.00 %
+JavaScript   6 hrs 14 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.90 %
+JSON         33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Less         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
