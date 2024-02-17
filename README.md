@@ -72,7 +72,9 @@ myBlog：<a href="https://hexo.kifroom.icu/">kifroom</a>
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   0 secs          █████████████████████████   100.00 %
+Less         8 mins          █████████▒░░░░░░░░░░░░░░░   37.73 %
+Vue.js       7 mins          ████████▓░░░░░░░░░░░░░░░░   34.58 %
+JavaScript   6 mins          ███████░░░░░░░░░░░░░░░░░░   27.70 %
 ```
 
 <!--END_SECTION:waka-->
