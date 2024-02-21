@@ -25,7 +25,7 @@
 <div align="center">
      <img src="https://img.shields.io/badge/-less-bf608e?style=flat&logo=less&logoColor=white">
      <img src="https://img.shields.io/badge/-sass-bf608e?style=flat&logo=sass&logoColor=white">
-     <img src="https://img.shields.io/badge/-unoss-bf608e?style=flat&logo=unoss&logoColor=white">
+     <img src="https://img.shields.io/badge/-uncoss-bf608e?style=flat&logo=unocss&logoColor=white">
     <img src="https://img.shields.io/badge/-vite-646CFF?style=flat&logo=vite&logoColor=white">
     <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat&logo=webpack&logoColor=white">
   	<img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat&logo=eslint&logoColor=white">
@@ -42,18 +42,17 @@
 
 
 
-# Work/Study experience（One year's work experience）
+# Work/Study Experience（One year's work experience）
 - 2019- 2023        XTU                                                      Network engineering
 - 2022- 2023        Daoyi (Changsha) Information Technology Co. LTD.         Front-end intern
 - 2023-to date      Beijing Yunda Digital Media Technology Co. LTD.          Front-end intern
 
-myBlog：<a href="https://blog.kifroom.icu/">kifroom</a>
-=======
-myBlog：<a href="https://hexo.kifroom.icu/">kifroom</a>
+# Something About Me
 
-- :email: kif101001000@163.com
+- 📖: <a href="https://hexo.kifroom.icu/">kifroom</a>
+- 📧: kif101001000@163.com
 - 💬 wechat：rm-rf_kif
-- :orange_book: Focusing on Vue & Web
+- 🌐: Focusing on Vue & Web
 - :hammer: Programming enthusiast
 - :ram: Magic lover
 - :meat_on_bone: Meat lover
@@ -89,4 +88,5 @@ Less         1 min           ░░░░░░░░░░░░░░░░░
         <img src="https://user-images.githubusercontent.com/46062972/177762098-5ea66dc6-5c5b-4877-9edc-0610f4816530.jpeg" width="150">
       </a>
     </div>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=wkif)](https://github.com/ryo-ma/github-profile-trophy)
