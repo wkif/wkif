@@ -42,13 +42,13 @@
 
 
 
-# Work/Study Experience（One year's work experience）
+# Work/Study Experience（Two year's work experience）
 - 2019- 2023        XTU                                                      Network engineering
 - 2022- 2023        Daoyi (Changsha) Information Technology Co. LTD.         Front-end intern
 - 2023- to date      Beijing Yunda Digital Media Technology Co. LTD.          Front-end intern
 
 # Something About Me
-
+wo
 - 📖: <a href="https://hexo.kifroom.icu/">kifroom</a>
 - 📧: kif101001000@163.com
 - 💬 wechat：rm-rf_kif
