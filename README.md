@@ -48,13 +48,13 @@
 
 
 
-# Work/Study Experience（One year's work experience）
+# Work/Study Experience（Two year's work experience）
 - 2019- 2023        XTU                                                      Network engineering
 - 2022- 2023        Daoyi (Changsha) Information Technology Co. LTD.         Front-end intern
 - 2023- to date      Beijing Yunda Digital Media Technology Co. LTD.          Front-end intern
 
 # Something About Me
-
+wo
 - 📖: <a href="https://hexo.kifroom.icu/">kifroom</a>
 - 📧: kif101001000@163.com
 - 💬 wechat：rm-rf_kif
@@ -77,11 +77,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       8 hrs 29 mins   ███████████████████░░░░░░   76.59 %
-TypeScript   1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-JavaScript   1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
-Docker       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-Less         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Vue.js       4 hrs 30 mins   ██████████████░░░░░░░░░░░   55.55 %
+JavaScript   1 hr 23 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.21 %
+TypeScript   1 hr 23 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
+JSON         23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ```
 
 <!--END_SECTION:waka-->
