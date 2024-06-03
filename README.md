@@ -14,11 +14,16 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Nuxt3-bf608e?style=flat&logo=nuxt.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Nest-bf608e?style=flat&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/-Next-bf608e?style=flat&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/-React-087EA4?style=flat&logo=react&logoColor=white">
+   <img src="https://img.shields.io/badge/-ReactNative-087EA4?style=flat&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/-wasm-408e43?style=flat&logo=WebAssembly&logoColor=white">
   <img src="https://img.shields.io/badge/miniprogram-09b955?style=flat&logo=wechat&logoColor=white">
   <img src="https://img.shields.io/badge/-Uniapp-bf608e?style=flat&logo=uniapp&logoColor=white">
-  <img src="https://img.shields.io/badge/-Nuxt3-bf608e?style=flat&logo=nuxt.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Nodejs-026E00?style=flat&logo=node.js&logoColor=white">
+   <img src="https://img.shields.io/badge/-electron-9FEAF9?style=flat&logo=electron&logoColor=white">
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/-Django-2b6dbf?style=flat&logo=django&logoColor=white">
 </div>
@@ -34,6 +39,7 @@
   <img src="https://img.shields.io/badge/-arch linux-bf608e?style=flat&logo=archlinux&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Nginx-408e43?style=flat&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/-Docker-00084D?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
 </div>
 <br />
