@@ -77,11 +77,11 @@ wo
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       20 hrs 25 mins  ███████████████░░░░░░░░░░   60.35 %
-Docker       2 hrs 48 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
-TypeScript   2 hrs 40 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
-JavaScript   2 hrs 7 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-Bash         1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+Vue.js       18 hrs 15 mins  ███████████████░░░░░░░░░░   60.45 %
+TypeScript   2 hrs 59 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
+Docker       2 hrs 16 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+JavaScript   1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+Bash         1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
 ```
 
 <!--END_SECTION:waka-->
