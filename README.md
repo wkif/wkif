@@ -77,8 +77,7 @@ wo
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       3 mins          ███████████████████████▓░   94.06 %
-JavaScript   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
