@@ -95,62 +95,7 @@
 
   <!--END_SECTION:waka-->
 
-  <div>
-        <a href="#" style="display: flex; align-items: center; justify-content: center;">
-          <img src="https://user-images.githubusercontent.com/46062972/177761749-da9d5297-87ac-4c30-b069-16bc685a7e80.png" width="150"> 
-          <!-- <span>&nbsp;&nbsp;&nbsp;</span> -->
-          <img src="https://user-images.githubusercontent.com/46062972/177762098-5ea66dc6-5c5b-4877-9edc-0610f4816530.jpeg" width="150">
-        </a>
-    </div>
 
-  [![](https://github-profile-trophy.vercel.app/?username=wkif)](https://github.com/ryo-ma/github-profile-trophy)
-
-  <style>
-    .prose figure{
-        margin: 0;
-    }
-    /* 响应式布局样式 */
-    .profile-container {
-      display: flex;
-      gap: 20px;
-      align-items: flex-start;
-      justify-content: space-between;
-      width: 100%;
-    }
-    
-    .profile-image-container {
-      flex: 1;
-      min-width: 280px;
-      max-width: 400px;
-    }
-    
-    .profile-skills-container {
-      flex: 2;
-      min-width: 280px;
-    }
-    
-    .kif-img {
-      width: 100%;
-      border-radius: 10px;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    }
-    
-    @media (max-width: 768px) {
-      .profile-container {
-        flex-direction: column;
-      }
-      
-      .profile-image-container,
-      .profile-skills-container {
-        width: 100%;
-        min-width: unset;
-      }
-      
-      .kif-img {
-        margin-bottom: 20px;
-      }
-    }
-  </style>
 
 
 # Achievements
