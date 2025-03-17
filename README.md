@@ -109,7 +109,6 @@
     .prose figure{
         margin: 0;
     }
-    
     /* 响应式布局样式 */
     .profile-container {
       display: flex;
@@ -153,32 +152,6 @@
     }
   </style>
 
-  <!-- # 个人项目 -->
-
-  <!-- <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">项目 1</h3>
-        <div align="center">
-          <a href="项目链接" target="_blank">
-            <img src="项目截图" width="400" alt="项目预览"/>
-          </a>
-          <p>
-            <a href="项目链接" target="_blank">
-              <img src="https://img.shields.io/badge/-源码-000?style=flat&logo=github&logoColor=white">
-            </a>
-            <a href="演示链接" target="_blank">
-              <img src="https://img.shields.io/badge/-演示-00C7B7?style=flat&logo=netlify&logoColor=white">
-            </a>
-          </p>
-          <p><strong>技术栈:</strong> Vue, TypeScript, Vite</p>
-          <p>项目简短描述</p>
-        </div>
-      </td>
-      <td width="50%">
-      </td>
-    </tr>
-  </table> -->
 
 # Achievements
 
