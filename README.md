@@ -85,15 +85,11 @@
 
   <!--START_SECTION:waka-->
 
-  ```txt
-  Vue.js       26 hrs 28 mins  █████████████████████▒░░░   84.91 %
-  TypeScript   4 hrs 28 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
-  Less         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-  JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-  JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-  ```
+```txt
+No activity tracked
+```
 
-  <!--END_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
