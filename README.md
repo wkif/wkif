@@ -86,7 +86,8 @@
   <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   40 mins         █████████████████████░░░░   84.40 %
+Vue.js       7 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
 ```
 
 <!--END_SECTION:waka-->
