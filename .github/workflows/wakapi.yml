@@ -1,0 +1,39 @@
+name: Wakapi Readme
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wakapi-readme
+  cancel-in-progress: true
+
+jobs:
+  update-readme:
+    name: Update Readme with Wakapi Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@v5
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_URL: https://wakapi.kifroom.icu/api/
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SECTION_NAME: wakapi
+          LOCALE: zh
+          SYMBOL_VERSION: '2'
+          SHOW_LINES_OF_CODE: 'True'
+          SHOW_LOC_CHART: 'False'
+          SHOW_SHORT_INFO: 'False'
+          SHOW_OS: 'True'
+          SHOW_PROJECTS: 'False'
+          SHOW_TOTAL_CODE_TIME: 'True'
+          SHOW_COMMIT: 'True'
+          SHOW_PROFILE_VIEWS: 'True'
+          SHOW_DAYS_OF_WEEK: 'True'
+          SHOW_LANGUAGE: 'True'
+          SHOW_EDITORS: 'True'
+          SHOW_LANGUAGE_PER_REPO: 'True'
