@@ -64,7 +64,7 @@
 
   # About Me
 
-  - 📖 Blog: <a href="https://hexo.kifroom.icu/">kifroom</a>
+  - 📖 Blog: <a href="https://www.0xkif.cn/">kifroom</a>
   - 📧 Email: kif101001000@163.com
   - 💬 WeChat: rm-rf_kif
   - 🌐 Focus: Vue & Web Development
